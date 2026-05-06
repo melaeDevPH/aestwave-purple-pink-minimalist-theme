@@ -1,26 +1,46 @@
 {
   "name": "aestwave-purple-pink-minimalist-theme",
-  "displayName": "Aestwave purple pink minimalist theme",
-  "description": "Minimal futuristic purple-pink theme",
+  "displayName": "Aestwave Purple Pink Minimalist Theme",
+  "description": "A minimal futuristic purple and pink theme with both dark and light variants. Crafted for developers who love clean, aesthetic workspaces.",
   "version": "0.0.1",
+  "publisher": "AmelitaDelaTorre",
+  "author": {
+    "name": "Amelita Dela Torre"
+  },
   "engines": {
     "vscode": "^1.118.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "purple",
+    "pink",
+    "minimalist",
+    "futuristic",
+    "dark theme",
+    "light theme",
+    "aesthetic"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Aeshetic Purple Pink futuristic theme",
+        "label": "Aestwave Dark — Purple Pink",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-aest-purple-pink-theme.json"
       },
-       {
-        "label": "Aeshetic Purple Pink futuristic theme",
+      {
+        "label": "Aestwave Light — Purple Pink",
         "uiTheme": "vs",
         "path": "./themes/light-aest-purple-pink-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melaeDevPH/aestwave-purple-pink-minimalist-theme.git"
+  },
+  "pricing": "Free"
 }
+

@@ -2,7 +2,7 @@
   "name": "Dark Aesthetic Purple Pink Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#120010",
+    "editor.background": "#000000",
     "editor.foreground": "#F2D4F5",
     "editor.lineHighlightBackground": "#1C0020",
     "editor.selectionBackground": "#FF4DB844",
