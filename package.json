@@ -1,0 +1,26 @@
+{
+  "name": "aestwave-purple-pink-minimalist-theme",
+  "displayName": "Aestwave purple pink minimalist theme",
+  "description": "Minimal futuristic purple-pink theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aeshetic Purple Pink futuristic theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-aest-purple-pink-theme.json"
+      },
+       {
+        "label": "Aeshetic Purple Pink futuristic theme",
+        "uiTheme": "vs",
+        "path": "./themes/light-aest-purple-pink-theme.json"
+      }
+    ]
+  }
+}
