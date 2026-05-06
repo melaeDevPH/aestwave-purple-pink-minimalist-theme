@@ -2,13 +2,14 @@
   "name": "aestwave-purple-pink-minimalist-theme",
   "displayName": "Aestwave Purple Pink Minimalist Theme",
   "description": "A minimal futuristic purple and pink theme with both dark and light variants. Crafted for developers who love clean, aesthetic workspaces.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "AmelitaDelaTorre",
+  "icon": "images/theme-icon.png",
   "author": {
     "name": "Amelita Dela Torre"
   },
   "engines": {
-    "vscode": "^1.118.0"
+     "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
