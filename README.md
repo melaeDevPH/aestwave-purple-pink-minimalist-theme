@@ -1,16 +1,65 @@
-# aestwave-purple-pink-minimalist-theme README
+# Aestwave — Purple Pink Minimalist Theme
 
-## Working with Markdown
+A minimal, futuristic Visual Studio Code theme with deep purple 
+and pink tones. Designed for developers who love clean, 
+aesthetic workspaces.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## About the Author
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Hi! I'm **Amelita Dela Torre**, a software engineer and freelancer 
+who builds websites, web systems, and mobile applications. 
+Creating themes is one of my hobbies — I love crafting beautiful 
+developer experiences.
 
-## For more information
+## Variants
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### 🌑 Aestwave Dark
+- Deep black-purple background
+- Neon pink keywords
+- Soft purple accents
+- Easy on the eyes for long coding sessions
 
-**Enjoy!**
+### ☀️ Aestwave Light
+- Soft lavender white background
+- Dark pink keywords
+- Deep purple text
+- Clean and minimal for daytime coding
+
+## Color Palette
+
+### Dark Theme
+| Element | Color |
+|---|---|
+| Background | `#120010` |
+| Text | `#F2D4F5` |
+| Keywords | `#FF4DB8` |
+| Functions | `#C778DD` |
+| Strings | `#D9A8E8` |
+| Comments | `#3D1A4A` |
+
+### Light Theme
+| Element | Color |
+|---|---|
+| Background | `#FDF0FF` |
+| Text | `#3B0051` |
+| Keywords | `#9B0060` |
+| Functions | `#7B0099` |
+| Strings | `#6A0080` |
+| Comments | `#C9A0DC` |
+
+## Installation
+
+1. Open **Extensions** in VS Code (`Ctrl + Shift + X`)
+2. Search for `Aestwave Purple Pink`
+3. Click **Install**
+4. Go to **File → Preferences → Color Theme**
+5. Select **Aestwave Dark** or **Aestwave Light**
+
+## Feedback
+
+Found a bug or have a suggestion? Feel free to open an issue 
+on [GitHub](https://github.com/melaeDevPH/aestwave-purple-pink-minimalist-theme)!
+
+---
+
+Made with 💜🌸 by Amelita Dela Torre
