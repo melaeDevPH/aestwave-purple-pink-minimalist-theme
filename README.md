@@ -4,12 +4,6 @@ A minimal, futuristic Visual Studio Code theme with deep purple
 and pink tones. Designed for developers who love clean, 
 aesthetic workspaces.
 
-## About the Author
-
-Hi! I'm **Amelita Dela Torre**, a software engineer and freelancer 
-who builds websites, web systems, and mobile applications. 
-Creating themes is one of my hobbies — I love crafting beautiful 
-developer experiences.
 
 ## Variants
 
